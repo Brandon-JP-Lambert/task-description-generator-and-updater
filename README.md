@@ -1,6 +1,6 @@
 # ClickUp Task Description Updater
 
-This Python script automates the process of generating and updating task descriptions and subtasks for tasks in ClickUp. The script leverages the OpenAI GPT-4 model to create meaningful and concise descriptions, as well as a list of related subtasks for each task.
+This Python script automates the process of generating and updating task descriptions and subtasks for tasks in ClickUp. The script leverages the OpenAI API to create meaningful and concise descriptions, as well as a list of related subtasks for each task.
 
 ## Features
 
